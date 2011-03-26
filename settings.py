@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'g!4z^+_9s(r(7p7%ej$@&5w-9g1yk2=zxt&y8jr+pzs7g@#d03'
+SECRET_KEY = 'djangoproject_praptishrestha'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
